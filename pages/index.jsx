@@ -25,7 +25,7 @@ export default function Home({ allPostsData }) {
           Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illum, sunt!
         </p>
         <p>
-          (This is a sample website - you'll be building a site like this on{' '}
+          (This is a sample website - you&apos;ll be building a site like this on{' '}
           <a href='https://nextjs.org/learn'>our Next.js Tutorial</a>)
         </p>
       </section>
